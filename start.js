@@ -5,7 +5,7 @@ var path = require('path');
 app.use(express.static(path.join(__dirname)));
 
 
-// viewed at based directory http://localhost:8080/
+// viewed at based directory http://localhost:3000/
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname + '/colorGame.html'));
 });
