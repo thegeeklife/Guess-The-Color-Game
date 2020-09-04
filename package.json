@@ -1,0 +1,23 @@
+{
+  "name": "colorguess",
+  "version": "1.0.0",
+  "description": "guess the color based on rgb value",
+  "main": "color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegeeklife/Guess-The-Color-Game.git"
+  },
+  "author": "subia ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegeeklife/Guess-The-Color-Game/issues"
+  },
+  "homepage": "https://github.com/thegeeklife/Guess-The-Color-Game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
