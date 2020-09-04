@@ -1,0 +1,10 @@
+{ "name": "version1",
+    "version": "1.0.0",
+    "description": "Guess the color based on RGB Value",
+    "main": "colorGame.html",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Subia Ansari",
+    "license": "ISC"
+  }
